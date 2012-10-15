@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3//9Wg\u003d",
+        "filename": "libaudio/AudioHardware.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 929,
+      "author": {
+        "id": 4737
+      },
+      "writtenOn": "2012-10-15T11:43:56Z",
+      "side": 1,
+      "message": "code diffrent from LOGI message",
+      "revId": "e40a8c5c13c8e099a02c76591e083344b89641b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3//9WQ\u003d",
+        "filename": "libaudio/AudioHardware.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 1155,
+      "author": {
+        "id": 4737
+      },
+      "writtenOn": "2012-10-15T11:43:56Z",
+      "side": 1,
+      "message": "abstract volume 1, seems not good",
+      "revId": "e40a8c5c13c8e099a02c76591e083344b89641b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
