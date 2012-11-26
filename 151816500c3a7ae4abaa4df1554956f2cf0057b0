@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//58Q\u003d",
+        "filename": "libaudio/AudioHardware.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 929,
+      "author": {
+        "id": 4737
+      },
+      "writtenOn": "2012-11-26T19:48:00Z",
+      "side": 1,
+      "message": "this will cause overflow problem\nthere are only 3 set of \"post processing parameter\"(see line 55 - 71), so device_id can be 0, 1 or 2, but not 3\n\neither use Patch Set 1 or add a set of \"post processing parameter\" for headphones",
+      "revId": "151816500c3a7ae4abaa4df1554956f2cf0057b0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
