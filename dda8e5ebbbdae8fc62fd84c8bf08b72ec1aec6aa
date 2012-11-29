@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//5Ts\u003d",
+        "filename": "init.pecan.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 4737
+      },
+      "writtenOn": "2012-11-29T21:20:32Z",
+      "side": 0,
+      "message": "so, this is where the confuing com.lge.ers package come from!",
+      "revId": "dda8e5ebbbdae8fc62fd84c8bf08b72ec1aec6aa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
