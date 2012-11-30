@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//5NA\u003d",
+        "filename": "ueventd.pecan.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 3261
+      },
+      "writtenOn": "2012-11-30T15:44:03Z",
+      "side": 1,
+      "message": "ohhh it\u0027s duplicate",
+      "revId": "5260fd66de5f60bef1df0af476107641d18fd6ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
