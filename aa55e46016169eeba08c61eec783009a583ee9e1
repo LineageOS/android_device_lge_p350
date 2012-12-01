@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//5FM\u003d",
+        "filename": "libaudio/AudioHardware.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 877,
+      "author": {
+        "id": 3261
+      },
+      "writtenOn": "2012-12-01T12:51:45Z",
+      "side": 1,
+      "message": "Checking for the EOF and exiting the loop if EOF is reached",
+      "revId": "aa55e46016169eeba08c61eec783009a583ee9e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
